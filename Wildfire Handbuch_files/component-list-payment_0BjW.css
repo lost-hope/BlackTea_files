@@ -1,0 +1,31 @@
+.list-payment {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+
+.list-payment__item {
+  align-items: center;
+  display: flex;
+}
+.list-payment__item svg {
+  height: 2.7rem;
+  width: auto;
+}
+/*
+     FILE ARCHIVED ON 12:08:56 Aug 11, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:25:10 Aug 30, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.356
+  load_resource: 91.886
+  PetaboxLoader3.resolve: 37.841
+  PetaboxLoader3.datanode: 35.151
+*/
